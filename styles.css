@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #f0f0f0;
+}
+
+#love-message {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 48px;
+    color: #e26d6d;
+}
+
+p {
+    font-size: 24px;
+    color: #333;
+}
+
+canvas {
+    border: 2px solid #e26d6d;
+}
